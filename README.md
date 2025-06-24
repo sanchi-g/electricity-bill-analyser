@@ -47,8 +47,7 @@ How to Run
 - Monthly Cost: ₹480
 
 Here’s a sample usage chart:
-
-(usageplot.png)
+![Usageplot](usageplot.png)
 
 Author
 **Sanchi Goyal** – Final-year B.Tech student passionate about data-driven software.  
