@@ -1,19 +1,19 @@
-# ⚡ Electricity Bill Analyzer
+Electricity Bill Analyzer
 
 A Python project to analyze and visualize electricity usage from CSV files. It calculates total units, cost per month, and identifies peak usage trends.
 
-## 📌 Features
+Features
 - Reads usage and cost data from a `.csv` file
 - Calculates total units used, monthly usage, and cost
 - Identifies peak usage days
 - Plots usage and cost trends with graphs
 
-## 🧰 Tech Stack
+Tech Stack
 - Python
 - Pandas
 - Matplotlib
 
-## 📂 Sample CSV Format
+Sample CSV Format
 
 ```csv
 Date,Units,Cost
@@ -22,7 +22,7 @@ Date,Units,Cost
 2024-01-03,15,60
 ```
 
-## 🚀 How to Run
+How to Run
 
 1. **Clone the repo**
    ```bash
@@ -37,20 +37,18 @@ Date,Units,Cost
 
 3. **Run the script**
    ```bash
-   python bill_analyzer.py
+   python electricity_bill.py
    ```
 
-## 📈 Output Example
+ Output Example
 
 - Total Units Used: 120
 - Peak Usage: 15 units on 2024-01-03
 - Monthly Cost: ₹480
 
-## 📄 License
-MIT License
+Here’s a sample usage chart:
 
----
+(usageplot.png)
 
-## 👩‍💻 Author
+Author
 **Sanchi Goyal** – Final-year B.Tech student passionate about data-driven software.  
-Connect with me on [LinkedIn](https://linkedin.com/in/sanchi-goyal)
